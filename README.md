@@ -1,2 +1,2 @@
-# MA705
-for MA705 
+# UFC fighting prediction
+UFC fighting prediction dashboard, deployed using heroku
